@@ -647,6 +647,7 @@ button{
     width: 400px;
     height: 350px;
     background-color: #26104c;
+    border-radius: 15px;
 }
 
 .main-div-popup .popup .pp p{
